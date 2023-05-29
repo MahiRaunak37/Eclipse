@@ -1,0 +1,10 @@
+package com.spring.collection;
+
+import java.util.*;
+
+public class Employee {
+	private String name;
+	private Set<String> phone;
+	private List<String> address;
+	private Map<String, String> courses;
+}
