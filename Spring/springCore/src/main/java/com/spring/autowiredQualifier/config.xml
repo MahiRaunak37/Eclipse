@@ -9,16 +9,17 @@ http://www.springframework.org/schema/context
 http://www.springframework.org/schema/context/spring-context.xsd">
 <context:annotation-config/>
 
- <bean class="com.spring.autowired.Address" name="address1">
+ <bean class="com.spring.autowiredQualifier.Address" name="address1">
  	<property name="street" value="Mayur Marg"/>
  	<property name="city" value="Hyderabad"/>
  </bean>
  
- <bean class="com.spring.autowiredAnno.Address" name="address1">
- 	<property name="street" value="Mayur Marg"/>
- 	<property name="city" value="Hyderabad"/>
+ <bean class="com.spring.autowiredQualifier.Address" name="address2">
+ 	<property name="street" value="Imamganj"/>
+ 	<property name="city" value="Gaya"/>
  </bean>
  
- <bean class="com.spring.autowiredAnno.Employee" name="employee"/>
+ 
+ <bean class="com.spring.autowiredQualifier.Employee" name="employee"/>
 
 </beans>

@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=SpringProject/C:\/Program Files\/Java\/jdk-17\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang(System.class[System" modifiers="49" timestamp="1684929821511"/>
+    <typeInfo handle="=springJdbc/C:\/Users\/ranja\/.m2\/repository\/org\/springframework\/spring-jdbc\/6.0.9\/spring-jdbc-6.0.9.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-jdbc=/=/maven.version=/6.0.9=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.jdbc.datasource(DriverManagerDataSource.class[DriverManagerDataSource" modifiers="33" timestamp="1685808177578"/>
+    <typeInfo handle="=springJdbc/C:\/Users\/ranja\/.m2\/repository\/org\/springframework\/spring-jdbc\/6.0.9\/spring-jdbc-6.0.9.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-jdbc=/=/maven.version=/6.0.9=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.jdbc.core(JdbcTemplate.class[JdbcTemplate" modifiers="33" timestamp="1685808177578"/>
+</typeInfoHistroy>

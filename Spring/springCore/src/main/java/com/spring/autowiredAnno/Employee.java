@@ -1,9 +1,11 @@
 package com.spring.autowiredAnno;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 
 public class Employee {
 	@Autowired
+	@Qualifier("address2")
 	// <bean class="com.spring.autowiredAnno.Employee" name="employee"
 	// autowire="byType"/>
 	private Address address;
