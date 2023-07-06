@@ -1,12 +1,13 @@
 
 a
-java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHRINFOZ
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH
+RINFOZ
 CODE_SMELL
-E
-java:S1220""Move this file to a named package.HRMINORZ
+j	java:S106"9Replace this use of System.out or System.err by a logger.(´ü»ˆ8ûÁ·…1HRMAJORZ
 CODE_SMELL
 a
-java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHRINFOZ
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHRINFOZ
 CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(´ü»ˆ8ûÁ·…1HRMAJORZ
+E
+java:S1220""Move this file to a named package.HRMINORZ
 CODE_SMELL
