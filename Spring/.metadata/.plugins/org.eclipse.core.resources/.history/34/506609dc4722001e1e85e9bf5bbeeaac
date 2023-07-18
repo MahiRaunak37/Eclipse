@@ -1,0 +1,29 @@
+package com.spring.shop;
+
+import java.util.List;
+
+public class OrderDetails {
+	private long orderId;
+	private double price=0;
+	boolean isOrderDelivered;
+	public long getOrderId() {
+		return orderId;
+	}
+	public void setOrderId(long orderId) {
+		this.orderId = orderId;
+	}
+	public double getPrice() {
+		Product product = new Product();
+		System.out.println(product.getProdPrice());
+			return price;
+	}
+	public boolean getIsOrderDelivered() {
+		return isOrderDelivered;
+	}
+	public void setIsOrderDelivered(boolean isOrderDelivered) {
+		this.isOrderDelivered = isOrderDelivered;
+	}
+	
+	
+	
+}

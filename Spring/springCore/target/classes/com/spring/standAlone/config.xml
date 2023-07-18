@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:context="http://www.springframework.org/schema/context"
+xmlns:p="http://www.springframework.org/schema/p"
+xmlns:util="http://www.springframework.org/schema/util"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+https://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd
+http://www.springframework.org/schema/util
+http://www.springframework.org/schema/util/spring-util.xsd">
+
+	<util:list list-class="java.util.LinkedList" id="forCoding"> <!-- Here we change the type of collection -->
+			<value>Core Java</value>
+			<value>Adv Java</value>
+			<value>Oracle</value>
+			<value>MySQL</value>
+	</util:list>
+	
+	<util:map map-class="java.util.HashMap" id="totalSal">
+		<entry key="raunak" value="30000"/>
+		<entry key="ashish" value="40000"/>
+		<entry key="mahi" value="50000"/>
+		<entry key="ranjan" value="60000"/>
+	</util:map>
+	
+	
+	<util:properties id="dbconfig">
+		<prop key="driver">oracle.jdbc.driver.OracleDriver</prop>
+		<prop key="url">jdbc:oracle:thin:@localhost:1521:ORCL</prop>
+		<prop key="username">system</prop>
+		<prop key="password">raunak37</prop>
+	</util:properties>
+	
+ <bean class="com.spring.standAlone.Employee" name="employee">
+ 	<property name="lang" ref="forCoding"/>
+ 	<property name="salary" ref="totalSal"/>
+ 	<property name="properties" ref="dbconfig"/>
+ </bean>
+
+</beans>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

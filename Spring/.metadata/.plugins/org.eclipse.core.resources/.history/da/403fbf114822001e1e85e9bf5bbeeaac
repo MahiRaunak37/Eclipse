@@ -1,0 +1,8 @@
+package com.spring.shop;
+
+public class OrderDetails {
+	private int orderId;
+	private int price;
+	boolean isOrderDelivered;
+
+}

@@ -1,0 +1,9 @@
+package com.spring.ListSum;
+
+import java.util.*;
+
+public class Shop {
+	private String name;
+	private List<String> address;
+		
+}

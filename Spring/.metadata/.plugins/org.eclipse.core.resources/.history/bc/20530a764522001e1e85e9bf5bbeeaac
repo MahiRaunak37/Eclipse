@@ -1,0 +1,9 @@
+package com.spring.ListSum;
+
+import java.util.List;
+
+public class Product {
+	private String productName;
+	private List<Integer> price;
+
+}

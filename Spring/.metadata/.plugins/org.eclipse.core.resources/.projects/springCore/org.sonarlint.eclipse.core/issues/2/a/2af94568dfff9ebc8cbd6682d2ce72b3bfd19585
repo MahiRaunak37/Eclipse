@@ -1,0 +1,9 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ášù›HèRMINORZ
+CODE_SMELL
+”
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "roll".(Ú€©ùüÿÿÿÿ8“Òµ‰ˆ1HŸRMINORZ
+CODE_SMELL
+”
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "test".(þ¤¸Öþÿÿÿÿ8®Ûê†ˆ1HøRMINORZ
+CODE_SMELL

@@ -1,0 +1,27 @@
+package com.products;
+import java.util.List;
+
+public class Product {
+	private List<Integer> prodId;
+	private List<String> prodName;
+	private List<Double> prodPrice;
+	
+	public List<Integer> getProdId() {
+		return prodId;
+	}
+	public void setProdId(List<Integer> prodId) {
+		this.prodId = prodId;
+	}
+	public List<String> getProdName() {
+		return prodName;
+	}
+	public void setProdName(List<String> prodName) {
+		this.prodName = prodName;
+	}
+	public List<Double> getProdPrice() {
+		return prodPrice;
+	}
+	public void setProdPrice(List<Double> prodPrice) {
+		this.prodPrice = prodPrice;
+	}
+}

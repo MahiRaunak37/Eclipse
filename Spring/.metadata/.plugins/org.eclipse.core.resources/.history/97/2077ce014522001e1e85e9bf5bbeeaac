@@ -1,0 +1,9 @@
+package com.spring.ListSum;
+
+import java.util.List;
+
+public class Employee {
+	private String name;
+	private List<String> address;
+
+}

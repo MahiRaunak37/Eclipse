@@ -1,0 +1,16 @@
+
+Š
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(óÄÓ¹H†RMINORZ
+CODE_SMELL
+
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ƒì†ªøÿÿÿÿH‰RMINORZ
+CODE_SMELL
+Š
+java:S1488 "^Immediately return this expression instead of assigning it to the temporary variable "result".(ù…©HŒRMINORZ
+CODE_SMELL
+‹
+java:S14886"_Immediately return this expression instead of assigning it to the temporary variable "student".(ø¶§ÅH’RMINORZ
+CODE_SMELL
+‹
+java:S1488/"_Immediately return this expression instead of assigning it to the temporary variable "student".(–ØõÒHRMINORZ
+CODE_SMELL
