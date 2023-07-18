@@ -7,6 +7,7 @@ AbstractTextEditor.Color.SelectionBackground=26,95,140
 AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
 AbstractTextEditor.Color.SelectionForeground=146,157,165
 AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+<<<<<<< HEAD
 LSP4EReadOccurrenceIndicationColor=26,95,140
 LSP4ETextOccurrenceIndicationColor=26,95,140
 LSP4EWriteOccurrenceIndicationColor=26,95,140
@@ -20,6 +21,8 @@ breakpointIndicationColor=49,115,187
 currentIPColor=47,52,54
 currentLineColor=50,57,62
 deletionIndicationColor=210,82,82
+=======
+>>>>>>> ed2cc69032d2d45b75a8f2801633e618baa4bec9
 eclipse.preferences.version=1
 filteredSearchResultIndicationColor=26,95,140
 findBlockColor=255,165,0

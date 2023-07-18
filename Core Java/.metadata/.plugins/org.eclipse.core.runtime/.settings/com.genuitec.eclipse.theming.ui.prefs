@@ -1,9 +1,13 @@
 applyBackground=false
-approved.defs.file.last.changed.time=1649720987000
 configurationInstallLocation=/C\:/Users/ranja/eclipse/jee-2023-03/eclipse/
 eclipse.preferences.version=1
 iconcolormode=primary
+<<<<<<< HEAD
 last.download.attempt.time=1689673650345
 lastConfiguration=1689673640783
+=======
+last.download.attempt.time=1685085603037
+lastConfiguration=1685085593314
+>>>>>>> ed2cc69032d2d45b75a8f2801633e618baa4bec9
 newinstall=true
 workbench.theme=Dark Gray

@@ -29,6 +29,7 @@
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="java.lang.Readable"/>
     <fullyQualifiedTypeName name="oracle.sql.CharacterWalker"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
     <fullyQualifiedTypeName name="com.spring.jdbc.dao.RowMapperImp"/>
     <fullyQualifiedTypeName name="com.spring.jdbc.dao.StudentDAO"/>
@@ -47,6 +48,7 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<<<<<<< HEAD
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
@@ -54,4 +56,6 @@
     <fullyQualifiedTypeName name="com.spring.ListSum.Product"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+=======
+>>>>>>> ed2cc69032d2d45b75a8f2801633e618baa4bec9
 </qualifiedTypeNameHistroy>
