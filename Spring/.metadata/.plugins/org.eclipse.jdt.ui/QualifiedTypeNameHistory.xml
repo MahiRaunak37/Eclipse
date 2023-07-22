@@ -26,11 +26,8 @@
     <fullyQualifiedTypeName name="com.spring.javaConfig.Test"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicBorders.RolloverButtonBorder"/>
     <fullyQualifiedTypeName name="com.spring.javaConfig.Roll"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="java.lang.Readable"/>
     <fullyQualifiedTypeName name="oracle.sql.CharacterWalker"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
     <fullyQualifiedTypeName name="com.spring.jdbc.dao.RowMapperImp"/>
     <fullyQualifiedTypeName name="com.spring.jdbc.dao.StudentDAO"/>
@@ -47,7 +44,11 @@
     <fullyQualifiedTypeName name="com.spring.jdbc.dao.anno.StudentDaoImp"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
     <fullyQualifiedTypeName name="com.spring.jdbc.dao.anno.JdbcConfig"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="com.spring.sbean.Demo"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>

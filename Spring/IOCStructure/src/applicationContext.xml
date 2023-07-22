@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    
+    <!-- step 3:- Create a bean of the beans class and named that-->
+	<bean class="com.spring.sbean.Demo" name="demo">
+	<!-- step 4:- Set the property value(private variable) using name and value it set the property in setter method.-->
+		<property name="name" value="Mahi"/>
+	</bean>
+</beans>
